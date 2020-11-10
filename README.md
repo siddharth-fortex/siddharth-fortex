@@ -1,6 +1,5 @@
 ### Hey there, I'm Siddharth - aka [CMEFLY][website] 👋
 
-[![Website](https://siddharth-mohanty.herokuapp.com/)](https://siddharth-mohanty.herokuapp.com/)
 
 ## I'm a college student and a Developer!!
 - 🌱 I’m currently learning Data Science & ML
@@ -32,4 +31,4 @@
 
 ---
 ---
-[website]: https://siddharth-mohanty.herokuapp.com/
+[website]: https://siddharth-mohanty.herokuapp.com
