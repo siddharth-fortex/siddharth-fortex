@@ -1,6 +1,6 @@
 ### Hey there, I'm Siddharth - aka [CMEFLY][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://siddharth-mohanty.herokuapp.com/)
+[![Website](https://siddharth-mohanty.herokuapp.com/)](https://siddharth-mohanty.herokuapp.com/)
 
 ## I'm a college student and a Developer!!
 - 🌱 I’m currently learning Data Science & ML
